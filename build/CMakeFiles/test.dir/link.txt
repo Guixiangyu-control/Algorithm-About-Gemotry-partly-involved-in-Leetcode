@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/test.dir/main.c.o CMakeFiles/test.dir/JudgePointInTriangle/judgePointInTriangle.c.o  -o test  -lm 

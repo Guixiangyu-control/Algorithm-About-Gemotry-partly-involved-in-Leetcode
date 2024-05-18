@@ -1,0 +1,3 @@
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/build/CMakeFiles/rebuild_cache.dir
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/build/CMakeFiles/edit_cache.dir
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/build/CMakeFiles/test.dir

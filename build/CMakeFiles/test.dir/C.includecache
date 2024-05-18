@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/JudgePointInTriangle/judgePointInTriangle.c
+judgePointInTriangle.h
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/JudgePointInTriangle/judgePointInTriangle.h
+stdio.h
+-
+math.h
+-
+
+/home/guixiangyu/algorithm/Algorithm-About-Gemotry-partly-involved-in-Leetcode/JudgePointInTriangle/judgePointInTriangle.h
+
